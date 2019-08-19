@@ -6,7 +6,7 @@ An Android application using the Kotlin language that simulates rolling dice.
 
 ## Demo
 
-<img src='dice_roller_demo.gif' height="465" width="883" title='DiceRoller animated demo' width='' alt='DiceRoller demo' />
+<img src='dice_roller_demo.gif' width="465" height="883" title='DiceRoller animated demo' width='' alt='DiceRoller demo' />
 
 ## Credits
 
