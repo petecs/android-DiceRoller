@@ -2,7 +2,7 @@
 
 ## Description
 
-An Android application using the Kotlin language that simulates rolling dice.
+An Android application that simulates a dice roll.
 
 ## Demo
 
