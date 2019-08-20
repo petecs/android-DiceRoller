@@ -6,7 +6,7 @@ An Android application that simulates a dice roll.
 
 ## Demo
 
-<img src='dice_roller_demo.gif' width="232" height="441" title='DiceRoller animated demo' width='' alt='DiceRoller demo' />
+<img src='dice_roller_demo.gif' title='DiceRoller animated demo' width='' alt='DiceRoller demo' />
 
 ## Credits
 
